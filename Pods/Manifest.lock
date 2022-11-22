@@ -1,0 +1,44 @@
+PODS:
+  - Alamofire (5.6.2)
+  - Fakery (5.1.0)
+  - IQKeyboardManager (6.5.10)
+  - Kingfisher (7.4.0)
+  - Mocker (2.5.5)
+  - Nimble (10.0.0)
+  - Quick (5.0.1)
+  - ReachabilitySwift (5.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - Fakery
+  - IQKeyboardManager
+  - Kingfisher
+  - Mocker
+  - Nimble
+  - Quick
+  - ReachabilitySwift
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Fakery
+    - IQKeyboardManager
+    - Kingfisher
+    - Mocker
+    - Nimble
+    - Quick
+    - ReachabilitySwift
+
+SPEC CHECKSUMS:
+  Alamofire: d368e1ff8a298e6dde360e35a3e68e6c610e7204
+  Fakery: a90caff00ca5cacde6c161c3eafc72314a03d34d
+  IQKeyboardManager: 45a1fa55c1a5b02c61ac0fd7fd5b62bb4ad20d97
+  Kingfisher: 596b207973051aae5e4c54a1c1cb39837ea10d36
+  Mocker: 8c731a8104962f246cadf2b02556218e9edc1390
+  Nimble: 5316ef81a170ce87baf72dd961f22f89a602ff84
+  Quick: 749aa754fd1e7d984f2000fe051e18a3a9809179
+  ReachabilitySwift: 985039c6f7b23a1da463388634119492ff86c825
+
+PODFILE CHECKSUM: 5e739e6d0e1e87e89640115046494f9c8046d359
+
+COCOAPODS: 1.11.2

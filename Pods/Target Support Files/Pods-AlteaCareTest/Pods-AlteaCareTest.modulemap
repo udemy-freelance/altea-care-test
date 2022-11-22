@@ -1,0 +1,6 @@
+framework module Pods_AlteaCareTest {
+  umbrella header "Pods-AlteaCareTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
